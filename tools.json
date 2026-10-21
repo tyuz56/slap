@@ -1,0 +1,12 @@
+{
+  "شبكات": "nmap",
+  "استكشاف": "nmap",
+  "فحص": "nmap",
+  "واي فاي": "aircrack-ng",
+  "اختراق": "aircrack-ng",
+  "ثغرات": "sqlmap",
+  "sql": "sqlmap",
+  "تحليل": "wireshark-qt",
+  "موسيقى": "vlc",
+  "صوت": "vlc"
+}
